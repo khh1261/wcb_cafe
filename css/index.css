@@ -102,7 +102,7 @@ body{
     color: #fff;
     cursor: pointer;
     border: none;
-    border-radius: 5px;
+    border-radius: 3px;
   }
 
   input:hover{
@@ -138,6 +138,6 @@ body{
     }
 
     input{
-      font-size: rem;
+      font-size: 1.4rem;
     }
   }
